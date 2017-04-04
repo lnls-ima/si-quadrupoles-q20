@@ -1,12 +1,12 @@
-fieldmap_name:     	
+fieldmap_name:     	Q20_Model05_MainCoil_TrimCoil
 timestamp:         	2017-02-24_09-36-00
 filename:          	2017-02-24_Q20_Model05_Sim_X=-14_14mm_Z=-500_500mm_Imc=154.66A_Itc=10A.txt
 nr_magnets:        	1
 
-magnet_name:       	
-gap[mm]:           	
-control_gap[mm]:   	
-magnet_length[mm]: 	
+magnet_name:       	Q20
+gap[mm]:           	28
+control_gap[mm]:   	--
+magnet_length[mm]: 	186.5
 current_main[A]:   	154.66
 NI_main[A.esp]:   	3595.845
 current_trim[A]:   	10
