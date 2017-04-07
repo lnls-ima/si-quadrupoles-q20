@@ -7,7 +7,7 @@ import os
 import sys
 
 readme_template = [
-'Sirius Q14 Quadrupole',
+'Sirius Q20 Quadrupole',
 '=====================',
 '',
 'current official model version : MODEL_VERSION',
