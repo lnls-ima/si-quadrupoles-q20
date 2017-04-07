@@ -1,4 +1,4 @@
-Sirius Q14 Quadrupole
+Sirius Q20 Quadrupole
 =====================
 
 current official model version : model-05
