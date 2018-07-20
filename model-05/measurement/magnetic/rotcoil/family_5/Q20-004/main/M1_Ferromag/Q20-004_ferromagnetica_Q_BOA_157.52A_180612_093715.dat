@@ -69,8 +69,8 @@ n	avg_L.Nn(T/m^n-2)	std_L.Nn(T/m^n-2)	avg_L.Sn(T/m^n-2)	std_L.Sn(T/m^n-2)	avg_L.
 15  	  +8.975981e+19   	  +2.678761e+20   	  -1.381989e+20   	  +4.671734e+20   	  +1.647901e+20   	  +4.180765e+20   	  +0.000000e+00   	  +0.000000e+00   	  -1.055691e-06   	  +3.150571e-06   	  +1.625397e-06   	  +5.494566e-06   
 
 
-magnetic_center_x(um) 	6.879
-magnetic_center_y(um) 	-0.805
+magnetic_center_x(um) 	-6.879
+magnetic_center_y(um) 	0.805
 
 
 ##### Raw Data Stored(V.s) #####
